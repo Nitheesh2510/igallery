@@ -142,7 +142,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-        &copy; 2024 designed by Dhanus karthi S[24005701]. All Rights Reserved.
+        &copy; 2024 designed by K S Vinay Suhirthan[24901151]. All Rights Reserved.
     </footer>
 
     <script>
@@ -178,7 +178,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot 2024-12-15 194755.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
