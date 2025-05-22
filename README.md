@@ -178,7 +178,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-12-15 194755.png>)
+![alt text](<Screenshot 2025-05-20 192635.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
