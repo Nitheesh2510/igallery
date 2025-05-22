@@ -142,7 +142,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-        &copy; 2024 designed by K S Vinay Suhirthan[24901151]. All Rights Reserved.
+        &copy; 2024 designed by Nitheesh Kumar[212224230189]. All Rights Reserved.
     </footer>
 
     <script>
